@@ -1,4 +1,4 @@
-<!---
+The circuit display a 7 segment display according to certain inputs<!---
 
 This file is used to generate your project datasheet. Please fill in the information below and delete any unused
 sections.
